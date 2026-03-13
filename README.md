@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=false&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;Systems+and+Database+Enthusiast" />
-
+ 
 <p>
      <img src="https://github-readme-stats.vercel.app/api?username=sunil-bhattaraii&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-bhattaraii&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
