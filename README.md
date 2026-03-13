@@ -1,14 +1,12 @@
-<p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=header&text=Sunil%20Bhattarai&fontSize=45&fontAlignY=40&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=false&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;Systems+and+Database+Enthusiast" />
+
+<p>
+     <img src="https://github-readme-stats.vercel.app/api?username=sunil-bhattaraii&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunil-bhattaraii&layout=compact&theme=dracula&hide_border=true" alt="Top Languages"/>
 </p>
-     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=false&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;Systems+and+Database+Enthusiast" />
 
 # Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,js" />
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
-<img src="https://skillicons.dev/icons?i=git,linux,bash,vscode,npm" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=c,cpp,js,mongodb,express,react,nodejs,git,linux,bash,vscode,npm" /></p>
 
 # Current Focus
 <p>
@@ -21,9 +19,10 @@
 
 # Contact
 <p>
-     <a target="_blank" href="https://www.linkedin.com/in/sunil-bhattaraii/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-     <a target="_blank" href="https://facebook.com/sunil.bhattaraii"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-     <a target="_blank" href="https://instagram.com/sunil._.bhattarai_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+     <a href="https://github.com/sunil-bhattaraii"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+     <a href="https://www.linkedin.com/in/sunil-bhattaraii/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+     <a href="https://facebook.com/sunil-bhattaraii"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+     <a href="https://instagram.com/sunil-bhattaraii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <p align="center">
