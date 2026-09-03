@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=false&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;Systems+and+Database+Enthusiast" />
 
 # Tech Stack
-<p><img src="https://skillicons.dev/icons?i=js,mongodb,express,react,nodejs,git,linux,bash,vscode,npm,c,cpp" /></p>
+<p><img src="https://skillicons.dev/icons?i=ts,mongodb,express,react,nodejs,git,linux,bash,vscode,npm,c,cpp" /></p>
 
 # Current Focus
 <p>
