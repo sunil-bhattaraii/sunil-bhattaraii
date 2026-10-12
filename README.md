@@ -1,5 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=false&width=600&lines=Computer+Science+Student;MERN+Stack+Developer;Systems+and+Database+Enthusiast" />
-<img src="https://readmail.sunil-bhattarai.com.np/p/wsDlO_vW" alt="" width="1" height="1" />
+
 # Tech Stack
 <p><img src="https://skillicons.dev/icons?i=ts,mongodb,express,react,nodejs,git,linux,bash,vscode,npm,c,cpp" /></p>
 
@@ -22,3 +22,6 @@
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
 </p>
+
+#profile view tracker
+<img src="https://readmail.sunil-bhattarai.com.np/p/wsDlO_vW" alt="" width="1" height="1" />
